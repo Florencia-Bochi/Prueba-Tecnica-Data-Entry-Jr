@@ -64,12 +64,7 @@ Aquí se encuentra la documentación de mi prueba tecnica.
    - G) Se realiza el resguardo, y se exporta como archivo 'Hard.xlsx' (Teniendo en cuenta la configuración regional de la hoja de cálculo quede en Argentina).
 
    - Detalle: No se encontro una lógica para poder resolver y obtener la columna 'Precio'.
-.
 
-
-
-   5. Los archivos finales de los distintos casos se encuentran en la siguiente ubicación:
-    - https://github.com/Florencia-Bochi/Prueba-Tecnica-Data-Entry-Jr
 
       
       
